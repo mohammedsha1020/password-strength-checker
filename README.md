@@ -7,3 +7,4 @@ Features
       *  Visual feedback: Displays strength as text (e.g., "Very Weak", "Moderate", "Strong") and a color-coded progress bar.
       *  Criteria-based analysis: Considers length, uppercase, lowercase, numeric, and special characters.
       *  User-friendly interface: Built with Tkinter for a clean and simple UI.
+
