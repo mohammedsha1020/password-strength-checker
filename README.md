@@ -11,7 +11,7 @@ A simple Python application built using **Tkinter** to evaluate and display the 
 
 ## Demo
 
-![Password Strength Checker](screenshot.png)  
+![Password Strength Checker](image.png)  
 *Screenshot showing the password strength checker in action.*
 
 ## Requirements
