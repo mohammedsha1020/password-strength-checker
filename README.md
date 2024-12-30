@@ -1,4 +1,7 @@
-# Password Strength Checker
+---
+# CODTECH TASK-1
+---
+## Password Strength Checker
 
 A simple Python application built using **Tkinter** to evaluate and display the strength of a password in real-time. The application visually indicates the strength of the password with both text and a progress bar.
 
