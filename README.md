@@ -1,5 +1,5 @@
 ---
-# CODTECH TASK-1
+# small project
 ---
 ## Password Strength Checker
 
@@ -27,7 +27,7 @@ A simple Python application built using **Tkinter** to evaluate and display the 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Unknonhack/password-strength-checker.git
+    git clone https://github.com/mohammedsha1020/password-strength-checker.git
     cd password-strength-checker
     ```
 
